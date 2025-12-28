@@ -38,7 +38,7 @@ This Code of Conduct applies both within project spaces (e.g., issues, PRs, Disc
 ---
 
 ## Enforcement
-Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting the maintainers at **conduct@openmemory.dev**.  
+Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting the maintainers at **agtech.reach@gmail.com**.  
 All complaints will be reviewed and investigated promptly and fairly.
 
 Maintainers are obligated to respect the privacy and security of the reporter of any incident.
